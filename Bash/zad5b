@@ -1,1 +1,1 @@
-echo parametr2 parametr3 | xarg -n 1 cp parametr1
+echo $@ | xarg -n 1 cp $1
