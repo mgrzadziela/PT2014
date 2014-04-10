@@ -1,0 +1,5 @@
+#!/bin/bash
+for parametr in *
+do
+  mv $parametr `echo $parametr | tr  '[A-Z]' '[a-z]'`
+done
