@@ -1,0 +1,9 @@
+if [ $# -gt 0 ]; then
+ for x in $@; do
+ if [ -e $x ]; then
+ cat $x
+ fi
+ echo "-------------------------"
+ done
+else
+ echo 'Brak parametrow.'
