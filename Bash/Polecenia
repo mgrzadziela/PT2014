@@ -1,0 +1,13 @@
+Zadanie 4 
+- wykonaj Zadanie 3 bez użycia plików pośrednich 
+- łącz ze sobą polecenia przy użyciu pipe | np. who | sort | itd.
+- polecenia zamiesc w pliku zadanie5.sh i wyslij plik na github do katalog /bash
+Zadanie 5
+
+a) napisz skrypt, który wyświetla zawartość plików (podanych poprzez parametry wykonania 
+skryptu). Jeżeli te pliki istnieją. Jeżeli nie został podany żaden parametry podaj stosowny 
+komunikat “Brak parametru”. Treści kolejnych plików rozdziel linią złożoną z “-“.
+b) napisz skrypt, który skopiuje dany plik (pierwszy parametr) do katalogów podanych jako 
+kolejne parametry skryptu.
+c) napisz skrypt, który zmieni nazwy plików w danym katalogu podanym jako parametr z 
+dużych na małe. 
