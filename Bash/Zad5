@@ -1,0 +1,5 @@
+Zad. 4
+
+touch zalogowani
+sort zalogowani >> zalogowani.alfabetycznie
+head -3 zalogowani.alfabetycznie >> zalogowani.head
